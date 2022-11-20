@@ -277,7 +277,6 @@ build {
                         "${path.root}/scripts/installers/azure-cli.sh",
                         "${path.root}/scripts/installers/azure-devops-cli.sh",
                         "${path.root}/scripts/installers/basic.sh",
-                        "${path.root}/scripts/installers/codeql-bundle.sh",
                         "${path.root}/scripts/installers/pypy.sh",
                         "${path.root}/scripts/installers/nodejs.sh",
                         "${path.root}/scripts/installers/python.sh"
